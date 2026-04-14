@@ -15,7 +15,8 @@ This repo currently includes two Langflow agents:
 
 - **AI_Agent_Testcase_Generator.json**  
   Generates structured test cases from PRDs, feature descriptions, or requirement summaries.
-  <img width="1512" height="833" alt="Screenshot 2026-04-14 at 11 42 20 AM" src="https://github.com/user-attachments/assets/904a8076-c8cd-4eac-abcb-3512a465d2ca" />
+ <img width="1512" height="833" alt="Screenshot 2026-04-14 at 1 47 15 PM" src="https://github.com/user-attachments/assets/1b06092f-7bc1-4b2f-b1a1-29aaf04c581f" />
+
 
 
 ## Who this is for
