@@ -10,9 +10,13 @@ This repo currently includes two Langflow agents:
 
 - **AI_Agent_Bug_classifier.json**  
   Classifies bug reports into meaningful QA categories such as severity, issue type, and impact.
+  <img width="1512" height="833" alt="Screenshot 2026-04-14 at 11 42 20 AM" src="https://github.com/user-attachments/assets/38d54bc9-53dd-4a0d-a83d-32fdea61bf8b" />
+
 
 - **AI_Agent_Testcase_Generator.json**  
   Generates structured test cases from PRDs, feature descriptions, or requirement summaries.
+  <img width="1512" height="833" alt="Screenshot 2026-04-14 at 11 42 20 AM" src="https://github.com/user-attachments/assets/904a8076-c8cd-4eac-abcb-3512a465d2ca" />
+
 
 ## Who this is for
 
